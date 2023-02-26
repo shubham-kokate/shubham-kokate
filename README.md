@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on making a cool Data Analytics Portfolio
 - 🌱 I’m currently learning Data Wrangling | Data Pipelines | Snowflake
 - 👯 I’m looking to collaborate on Data Analytics | BI | ML Projects
-- 🤔 I’m looking for help with Snowflake
+- 🤔 I’m looking for help with Learning Snowflake
 - 💬 Ask me about BI, Power Platform, e-Sports, Basketball
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
