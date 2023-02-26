@@ -1,6 +1,4 @@
-### Hi there 👋
-
-###  I'm Shubham, an Engineering Graduate from MIT, Pune.
+### Hi there 👋 I'm Shubham, an Engineering Graduate from MIT, Pune.
 
 - 🔭 I’m currently working on making a cool Data Analytics Portfolio
 - 🌱 I’m currently learning Data Wrangling | Data Pipelines | Snowflake
